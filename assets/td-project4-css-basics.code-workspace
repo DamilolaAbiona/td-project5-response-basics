@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../td-project4-css-basics"
+		},
+		{
+			"name": "td-project5-response-basics",
+			"path": ".."
+		},
+		{
+			"path": "../../Documents/project/DesignXweb"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "td-project5-response-basics"
+	}
+}
