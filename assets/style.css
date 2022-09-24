@@ -83,8 +83,11 @@ width: 100%;
 }
 .project-text > h2 {
   color: #460f13;
-  font-size: 2rem;
+  font-size: 3rem;
   margin-bottom: .5rem;
+}
+.project-text > p{
+  font-size: 2rem;
 }
 .project-text > p > span {
   display: block;
@@ -120,7 +123,7 @@ width: 100%;
   justify-content: space-between;
 }
 .software-titles > h2 {
-  color:white;
+  color:#260103;
 }
 .contact-me{
   margin-top: 1.6rem;
